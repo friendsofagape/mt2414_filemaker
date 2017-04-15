@@ -1,2 +1,6 @@
 # mt2414_filemaker
-Prototype of Machine Assisted Translation Tool in FileMaker Pro
+
+Copyright Friends of Agape 
+# Prototype of Machine Assisted Translation Tool in FileMaker Pro
+
+Full Access Creds  :  admin:admin
